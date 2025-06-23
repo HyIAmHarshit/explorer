@@ -125,16 +125,7 @@ https://explorerk.onrender.com/listings\
 Built with 💙 Harshit Khandelwal
 
 
----
 
-✅ **What to do next:**
-
-- Make sure these 4 image files are in your root folder:
-  - `home.png`
-  - `view.png`
-  - `signup.png`
-  - `add.png`
-- Replace Harshit Khandelwal and GitHub URL with your own
 
 
 
