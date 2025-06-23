@@ -98,7 +98,7 @@ HomeRent/
 1. 🔁 **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/homerent.git
+   git clone https://github.com/HyIAmHarshit/explorer.git
    cd homerent
 
 npm install
