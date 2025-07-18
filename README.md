@@ -108,7 +108,7 @@ SESSION_SECRET=your_session_secret
 
 npm start
 
-https://explorerk.onrender.com/listings\
+https://bexplorer.up.railway.app/listings
 
 
 🔮 Future Improvements
