@@ -108,8 +108,7 @@ SESSION_SECRET=your_session_secret
 
 npm start
 
-https://bexplorer.up.railway.app/listings
-
+https://explorer-eight-lovat.vercel.app/listings
 
 🔮 Future Improvements
 🌍 Google OAuth login
